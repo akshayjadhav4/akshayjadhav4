@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## My name is Akshay Jadhav. I am Mobile and Full stack web developer. 
+## SKILLS : 
+### Android Application - Java || Flutter || Kotlin
+### WEB - PHP || REACT JS || NODE JS || FLASK ||MERN
+#### My Blog : - https://akshayjadhavblog.netlify.app/
 <!--
 **akshayjadhav4/akshayjadhav4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
