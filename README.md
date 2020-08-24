@@ -5,7 +5,7 @@
 ### Android Application - Java || Flutter || Kotlin
 ### WEB - PHP || REACT JS || NODE JS || FLASK ||MERN
 
-#### My Website : - https://akshayjadhav4.github.io/
+#### My Website : - https://akshayjadhav.netlify.app/
 #### My Blog : - https://akshayjadhavblog.netlify.app/
 <!--
 **akshayjadhav4/akshayjadhav4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
