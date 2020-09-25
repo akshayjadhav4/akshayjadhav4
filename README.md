@@ -1,7 +1,7 @@
 <h2>Hi there 👋 I'm Akshay Jadhav</h2>
 <img align='right' src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="230">
 <br />
-I’m a Mobile appliction & Full stack web developer. I love to explore new tech. Sometime I write blogs to documnent my learning journey.
+I’m a Mobile application & Full stack web developer. I love to explore new tech. Sometime I write blogs to document my learning journey.
 <br />
 <br />
 
