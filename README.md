@@ -61,7 +61,7 @@ I’m a Mobile application & Full stack web developer. I love to explore new tec
 <br />
 <br />
 
-[![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshayjadhav4&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshayjadhav4&hide=contribs,prs&show_icons=true&rank_icon=github&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
