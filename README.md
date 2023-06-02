@@ -5,9 +5,12 @@ I’m a Mobile application & Full stack web developer. I love to explore new tec
 <br />
 <br />
 
-[My Portfolio](https://akshayjadhav.netlify.app/)
+🖥️ [My Portfolio](https://akshayjadhav.netlify.app/)
 
-[My Blogs](https://akshayjadhavblog.netlify.app/)
+📝 [Hashnode Blogs](https://akshayjadhav.hashnode.dev/)
+
+📝 [My Blogs](https://akshayjadhavblog.netlify.app/)
+
 
 ### Languages And Skills:
 
